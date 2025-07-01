@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <!-- Streak Stats -->
 <p align="center">
   <a href="https://github.com/krishna-warfade">
-    <img title="GithubStats" alt="Krishna's streak" src="https://streak-stats.demolab.com?user=krishna-warfade&theme=tokyonight&hide_border=true&mode=weekly"/>
+    <img title="GithubStats" alt="Krishna's streak" src="https://streak-stats.demolab.com?user=krishna-warfade&theme=tokyonight&hide_border=true&mode=daily"/>
   </a>
 </p>
 

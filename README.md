@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 </p>
 
 <!-- Profile Stats -->
-<h4 align="center">Profile stats</h4>
+<!-- <h4 align="center">Profile stats</h4> -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=krishna-warfade&count_private=true&show_icons=true&theme=tokyonight" />
 </p>

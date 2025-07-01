@@ -21,3 +21,12 @@ Here are some ideas to get you started:
 </p>
 <h4 align="center">Visitor's count</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{krishna-warfade}/count.svg" alt="Krishna Warfade Visitor's count" /></p>
+
+<p align="center">
+  <a href="https://github.com/krishna-warfade">
+    <img title="GithubStats" alt="Krishna's Streak" src="https://streak-stats.demolab.com?user=krishna-warfade&theme=#51e2f5&hide_border=true&mode=weekly"/>
+  </a>
+</p>
+
+<h4 align="center">Profile stats</h4>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=krishna-warfade&count_private=true&show_icons=true&theme=#51e2f5" /></p>

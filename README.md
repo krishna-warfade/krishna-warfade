@@ -26,15 +26,16 @@ Here are some ideas to get you started:
 <p align="center"><img src="https://profile-counter.glitch.me/{krishna-warfade}/count.svg" alt="Krishna Warfade Visitor's count" /></p>
 
 <h2>Stats</h2>
-<!-- Streak Stats -->
-<p align="center">
-  <a href="https://github.com/krishna-warfade">
-    <img title="GithubStats" alt="Krishna's streak" src="https://streak-stats.demolab.com?user=krishna-warfade&theme=tokyonight&hide_border=true&mode=daily"/>
-  </a>
-</p>
 
 <!-- Profile Stats -->
 <!-- <h4 align="center">Profile stats</h4> -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=krishna-warfade&count_private=true&show_icons=true&theme=tokyonight" />
+</p>
+
+<!-- Streak Stats -->
+<p align="center">
+  <a href="https://github.com/krishna-warfade">
+    <img title="GithubStats" alt="Krishna's streak" src="https://streak-stats.demolab.com?user=krishna-warfade&theme=tokyonight&hide_border=true&mode=daily"/>
+  </a>
 </p>

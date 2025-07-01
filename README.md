@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/krishna-warfade-809ab3326/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishna-warfade-809ab3326" height="30" width="40" /></a>
 <!--<a href="https://instagram.com/krishna.warfade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krishna.warfade" height="30" width="40" /></a> -->
 </p>
-<h4 align="center">Visitor's count</h4>More actions
+<h4 align="center">Visitor's count</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{krishna-warfade}/count.svg" alt="Krishna Warfade Visitor's count" /></p>

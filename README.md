@@ -25,8 +25,9 @@ Here are some ideas to get you started:
 <h4 align="center">Visitor's count</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{krishna-warfade}/count.svg" alt="Krishna Warfade Visitor's count" /></p>
 
+<h2>Stats</h2>
 <!-- Streak Stats -->
-<p align="center">More actions
+<p align="center">
   <a href="https://github.com/krishna-warfade">
     <img title="GithubStats" alt="Krishna's streak" src="https://streak-stats.demolab.com?user=krishna-warfade&theme=tokyonight&hide_border=true&mode=weekly"/>
   </a>

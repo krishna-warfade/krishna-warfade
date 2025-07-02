@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <!-- Visitor's Stats -->
 </p>
-<h2 align="left">Visitor's count</h2>
+<h4 align="left">Visitor's count</h4>
 <!-- <p align="center"><img src="https://profile-counter.glitch.me/{krishna-warfade}/count.svg" alt="Krishna Warfade Visitor's count" /></p> -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=krishna-warfade&label=Profile%20views&color=0e75b6&style=flat" alt="Krishna Warfade Visitor's count" />

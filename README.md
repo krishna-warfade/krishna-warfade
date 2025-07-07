@@ -34,12 +34,13 @@ Here are some ideas to get you started:
 <!-- Profile Stats -->
 <!-- <h4 align="center">Profile stats</h4> -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishna-warfade&count_private=true&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=krishna-warfade&count_private=true&show_icons=true&theme=react&hide_border=false" />
 </p>
 
 <!-- Streak Stats -->
 <p align="center">
   <a href="https://github.com/krishna-warfade">
-    <img title="GithubStats" alt="Krishna's streak" src="https://streak-stats.demolab.com?user=krishna-warfade&theme=tokyonight&hide_border=true&mode=daily"/>
+    <img title="GithubStats" alt="Krishna's streak" src="https://streak-stats.demolab.com?user=krishna-warfade&theme=react&hide_border=false&mode=daily"/>
+    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=krishna-warfade&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
   </a>
 </p>

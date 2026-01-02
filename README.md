@@ -33,9 +33,9 @@ Here are some ideas to get you started:
 
 <!-- Profile Stats -->
 <!-- <h4 align="center">Profile stats</h4> -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=krishna-warfade&count_private=true&show_icons=true&theme=react&hide_border=false" />
-</p>
+</p> -->
 
 <!-- Streak Stats -->
 <p align="center">
